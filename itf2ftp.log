@@ -1,0 +1,230 @@
+03 Feb 2012 16:40:59 0    [main] DEBUG org.catais.interlis.App  - properties filename: : itf2ftp.properties
+03 Feb 2012 16:40:59 4    [main] DEBUG org.catais.interlis.Itf2ftp  - Delivery date (constructor): 2012-02-02
+03 Feb 2012 16:40:59 4    [main] DEBUG org.catais.interlis.Itf2ftp  - Source directory (constructor): /tmp/itf/
+03 Feb 2012 16:40:59 4    [main] DEBUG org.catais.interlis.Itf2ftp  - srsofaioi4531
+03 Feb 2012 16:40:59 4    [main] DEBUG org.catais.interlis.Itf2ftp  - sogis
+03 Feb 2012 16:40:59 4    [main] DEBUG org.catais.interlis.Itf2ftp  - 5432
+03 Feb 2012 16:40:59 4    [main] DEBUG org.catais.interlis.Itf2ftp  - mspublic
+03 Feb 2012 16:40:59 4    [main] DEBUG org.catais.interlis.Itf2ftp  - 
+03 Feb 2012 16:40:59 4    [main] DEBUG org.catais.interlis.Itf2ftp  - www.sogeo.ch
+03 Feb 2012 16:40:59 5    [main] DEBUG org.catais.interlis.Itf2ftp  - 21
+03 Feb 2012 16:40:59 5    [main] DEBUG org.catais.interlis.Itf2ftp  - stefan
+03 Feb 2012 16:40:59 5    [main] DEBUG org.catais.interlis.Itf2ftp  - malice
+03 Feb 2012 16:40:59 5    [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/
+03 Feb 2012 16:40:59 6    [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/
+03 Feb 2012 16:40:59 6    [main] DEBUG org.catais.interlis.Itf2ftp  - false
+03 Feb 2012 16:40:59 13   [main] DEBUG org.catais.interlis.Itf2ftp  - PostgreSQL JDBC Driver Registered.
+03 Feb 2012 16:40:59 114  [main] DEBUG org.catais.interlis.Itf2ftp  - [247100, 247300, 247400, 247500, 247600, 247700, 247800, 247900, 248000, 248100, 249100, 249200, 249300, 249500, 249700, 249800, 249900, 250000, 250100, 250200, 250300, 251100, 251400, 251900, 252000, 252500, 252800, 253000, 257100, 257200, 257300, 257400, 257500, 257600, 257800, 257900, 258000, 258100, 258200, 258300, 258400, 258500, 258600, 261100, 261300, 261400, 261500, 261600, 261700, 261800, 262200]
+03 Feb 2012 16:40:59 215  [main] DEBUG org.catais.interlis.Itf2ftp  - 220 (vsFTPd 2.2.2)
+
+03 Feb 2012 16:40:59 775  [main] DEBUG org.catais.interlis.Itf2ftp  - 230 Login successful.
+
+03 Feb 2012 16:40:59 776  [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/247100.itf
+03 Feb 2012 16:40:59 776  [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/247100.itf
+03 Feb 2012 16:41:00 1784 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:00 1784 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/247300.itf
+03 Feb 2012 16:41:00 1785 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/247300.itf
+03 Feb 2012 16:41:04 5331 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:04 5331 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/247400.itf
+03 Feb 2012 16:41:04 5331 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/247400.itf
+03 Feb 2012 16:41:05 6805 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:05 6805 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/247500.itf
+03 Feb 2012 16:41:05 6806 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/247500.itf
+03 Feb 2012 16:41:09 10045 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:09 10046 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/247600.itf
+03 Feb 2012 16:41:09 10046 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/247600.itf
+03 Feb 2012 16:41:14 15227 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:14 15228 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/247700.itf
+03 Feb 2012 16:41:14 15228 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/247700.itf
+03 Feb 2012 16:41:17 18473 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:17 18473 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/247800.itf
+03 Feb 2012 16:41:17 18473 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/247800.itf
+03 Feb 2012 16:41:23 24465 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:23 24465 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/247900.itf
+03 Feb 2012 16:41:23 24465 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/247900.itf
+03 Feb 2012 16:41:25 26442 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:25 26443 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/248000.itf
+03 Feb 2012 16:41:25 26443 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/248000.itf
+03 Feb 2012 16:41:28 29984 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:28 29984 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/248100.itf
+03 Feb 2012 16:41:28 29984 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/248100.itf
+03 Feb 2012 16:41:30 31223 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:30 31224 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/249100.itf
+03 Feb 2012 16:41:30 31224 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/249100.itf
+03 Feb 2012 16:41:32 33261 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:32 33261 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/249200.itf
+03 Feb 2012 16:41:32 33261 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/249200.itf
+03 Feb 2012 16:41:35 36126 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:35 36126 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/249300.itf
+03 Feb 2012 16:41:35 36126 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/249300.itf
+03 Feb 2012 16:41:39 40942 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:39 40942 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/249500.itf
+03 Feb 2012 16:41:39 40942 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/249500.itf
+03 Feb 2012 16:41:43 44133 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:43 44134 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/249700.itf
+03 Feb 2012 16:41:43 44134 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/249700.itf
+03 Feb 2012 16:41:46 47286 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:46 47286 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/249800.itf
+03 Feb 2012 16:41:46 47286 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/249800.itf
+03 Feb 2012 16:41:47 48645 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:47 48645 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/249900.itf
+03 Feb 2012 16:41:47 48645 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/249900.itf
+03 Feb 2012 16:41:50 51260 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:50 51260 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/250000.itf
+03 Feb 2012 16:41:50 51261 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/250000.itf
+03 Feb 2012 16:41:53 54600 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:53 54600 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/250100.itf
+03 Feb 2012 16:41:53 54600 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/250100.itf
+03 Feb 2012 16:41:56 57744 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:56 57744 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/250200.itf
+03 Feb 2012 16:41:56 57744 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/250200.itf
+03 Feb 2012 16:41:59 60046 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:41:59 60046 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/250300.itf
+03 Feb 2012 16:41:59 60046 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/250300.itf
+03 Feb 2012 16:42:04 65586 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:04 65586 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/251100.itf
+03 Feb 2012 16:42:04 65586 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/251100.itf
+03 Feb 2012 16:42:05 66830 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:05 66830 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/251400.itf
+03 Feb 2012 16:42:05 66831 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/251400.itf
+03 Feb 2012 16:42:07 68215 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:07 68215 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/251900.itf
+03 Feb 2012 16:42:07 68215 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/251900.itf
+03 Feb 2012 16:42:10 71508 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:10 71508 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252000.itf
+03 Feb 2012 16:42:10 71509 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252000.itf
+03 Feb 2012 16:42:12 73177 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:12 73177 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252500.itf
+03 Feb 2012 16:42:12 73177 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252500.itf
+03 Feb 2012 16:42:14 75519 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:14 75519 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252800.itf
+03 Feb 2012 16:42:14 75519 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252800.itf
+03 Feb 2012 16:42:16 77638 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:16 77638 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/253000.itf
+03 Feb 2012 16:42:16 77638 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/253000.itf
+03 Feb 2012 16:42:19 80699 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:19 80699 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/257100.itf
+03 Feb 2012 16:42:19 80699 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/257100.itf
+03 Feb 2012 16:42:21 82628 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:21 82628 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/257200.itf
+03 Feb 2012 16:42:21 82629 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/257200.itf
+03 Feb 2012 16:42:27 88896 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:27 88897 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/257300.itf
+03 Feb 2012 16:42:27 88897 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/257300.itf
+03 Feb 2012 16:42:32 93792 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:32 93792 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/257400.itf
+03 Feb 2012 16:42:32 93792 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/257400.itf
+03 Feb 2012 16:42:34 95234 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:34 95235 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/257500.itf
+03 Feb 2012 16:42:34 95235 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/257500.itf
+03 Feb 2012 16:42:35 96747 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:35 96747 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/257600.itf
+03 Feb 2012 16:42:35 96748 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/257600.itf
+03 Feb 2012 16:42:40 101305 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:40 101305 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/257800.itf
+03 Feb 2012 16:42:40 101305 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/257800.itf
+03 Feb 2012 16:42:41 102778 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:41 102779 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/257900.itf
+03 Feb 2012 16:42:41 102779 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/257900.itf
+03 Feb 2012 16:42:45 106292 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:45 106292 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/258000.itf
+03 Feb 2012 16:42:45 106292 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/258000.itf
+03 Feb 2012 16:42:47 108498 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:47 108498 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/258100.itf
+03 Feb 2012 16:42:47 108498 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/258100.itf
+03 Feb 2012 16:42:56 117000 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:56 117000 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/258200.itf
+03 Feb 2012 16:42:56 117001 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/258200.itf
+03 Feb 2012 16:42:57 118107 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:57 118107 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/258300.itf
+03 Feb 2012 16:42:57 118107 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/258300.itf
+03 Feb 2012 16:42:59 120444 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:42:59 120444 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/258400.itf
+03 Feb 2012 16:42:59 120444 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/258400.itf
+03 Feb 2012 16:43:00 121476 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:43:00 121476 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/258500.itf
+03 Feb 2012 16:43:00 121476 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/258500.itf
+03 Feb 2012 16:43:01 122840 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:43:01 122840 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/258600.itf
+03 Feb 2012 16:43:01 122840 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/258600.itf
+03 Feb 2012 16:43:04 125601 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:43:04 125602 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/261100.itf
+03 Feb 2012 16:43:04 125602 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/261100.itf
+03 Feb 2012 16:43:08 129826 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:43:08 129826 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/261300.itf
+03 Feb 2012 16:43:08 129826 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/261300.itf
+03 Feb 2012 16:43:11 132612 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:43:11 132612 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/261400.itf
+03 Feb 2012 16:43:11 132612 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/261400.itf
+03 Feb 2012 16:43:13 134758 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:43:13 134759 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/261500.itf
+03 Feb 2012 16:43:13 134759 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/261500.itf
+03 Feb 2012 16:43:17 138381 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:43:17 138381 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/261600.itf
+03 Feb 2012 16:43:17 138381 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/261600.itf
+03 Feb 2012 16:43:19 140652 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:43:19 140653 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/261700.itf
+03 Feb 2012 16:43:19 140653 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/261700.itf
+03 Feb 2012 16:43:22 143284 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:43:22 143284 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/261800.itf
+03 Feb 2012 16:43:22 143285 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/261800.itf
+03 Feb 2012 16:43:24 145976 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:43:24 145976 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/262200.itf
+03 Feb 2012 16:43:24 145976 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/262200.itf
+03 Feb 2012 16:43:27 148245 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+03 Feb 2012 16:43:27 148264 [main] DEBUG org.catais.interlis.Itf2ftp  - 221 Goodbye.
+
+03 Feb 2012 16:43:27 148264 [main] DEBUG org.catais.interlis.Itf2ftp  - ftpClient disconnected
+09 Sep 2015 16:11:24 0    [main] DEBUG org.catais.interlis.Itf2ftp  - Delivery date (constructor): 2015-09-08
+09 Sep 2015 16:11:24 1    [main] DEBUG org.catais.interlis.Itf2ftp  - Source directory (constructor): /tmp/itf/

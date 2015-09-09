@@ -1,0 +1,101 @@
+0    [main] DEBUG org.catais.interlis.Itf2ftp  - Delivery date (yesterday): 2012-02-01
+1    [main] DEBUG org.catais.interlis.Itf2ftp  - Source directory: /tmp/itf/
+1    [main] DEBUG org.catais.interlis.Itf2ftp  - Delivery date (custom): 2012-01-30
+2    [main] DEBUG org.catais.interlis.Itf2ftp  - Source directory (custom): /home/office/tmp/itf/
+8    [main] DEBUG org.catais.interlis.Itf2ftp  - PostgreSQL JDBC Driver Registered.
+130  [main] DEBUG org.catais.interlis.Itf2ftp  - [242800, 247500, 251100, 251101, 251300, 251400, 251600, 251700, 251800, 251900, 252000, 252100, 252200, 252300, 252400, 252500, 252600, 252700, 252800, 252900, 253200, 253400]
+255  [main] DEBUG org.catais.interlis.Itf2ftp  - 220 (vsFTPd 2.2.2)
+
+793  [main] DEBUG org.catais.interlis.Itf2ftp  - 230 Login successful.
+
+794  [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/242800.itf
+794  [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/242800.itf
+4969 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+4970 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/247500.itf
+4970 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/247500.itf
+8158 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+8158 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/251100.itf
+8158 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/251100.itf
+9295 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+9295 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/251101.itf
+9295 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/251101.itf
+9918 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+9918 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/251300.itf
+9918 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/251300.itf
+13483 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+13484 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/251400.itf
+13484 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/251400.itf
+14281 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+14282 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/251600.itf
+14282 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/251600.itf
+15861 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+15861 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/251700.itf
+15861 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/251700.itf
+19693 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+19693 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/251800.itf
+19693 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/251800.itf
+22126 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+22126 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/251900.itf
+22126 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/251900.itf
+25384 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+25384 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252000.itf
+25384 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252000.itf
+27070 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+27070 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252100.itf
+27070 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252100.itf
+28718 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+28718 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252200.itf
+28718 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252200.itf
+29721 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+29721 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252300.itf
+29721 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252300.itf
+30951 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+30951 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252400.itf
+30951 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252400.itf
+31802 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+31802 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252500.itf
+31802 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252500.itf
+33247 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+33247 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252600.itf
+33247 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252600.itf
+34949 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+34949 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252700.itf
+34949 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252700.itf
+37369 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+37369 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252800.itf
+37369 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252800.itf
+39543 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+39543 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/252900.itf
+39543 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/252900.itf
+41790 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+41790 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/253200.itf
+41790 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/253200.itf
+45748 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+45748 [main] DEBUG org.catais.interlis.Itf2ftp  - /home/office/tmp/itf/253400.itf
+45748 [main] DEBUG org.catais.interlis.Itf2ftp  - Geodaten/av/so_tmp/253400.itf
+52269 [main] DEBUG org.catais.interlis.Itf2ftp  - 226 Transfer complete.
+
+52304 [main] DEBUG org.catais.interlis.Itf2ftp  - 221 Goodbye.
+
+52304 [main] DEBUG org.catais.interlis.Itf2ftp  - ftpClient disconnected
